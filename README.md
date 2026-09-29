@@ -1,4 +1,4 @@
-### Favs
+### My Favs
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust"/></td>
