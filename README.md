@@ -4,6 +4,7 @@
   <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust"/>
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="Typescript"/>
   <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
   <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="Arch Linux"/>
@@ -20,4 +21,5 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis"/>
   <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="Postgres"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind"/>
 </p>
