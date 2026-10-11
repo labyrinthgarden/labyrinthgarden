@@ -1,6 +1,6 @@
 ### My Favs
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 28px;">
   <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust"/>
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
