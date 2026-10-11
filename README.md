@@ -8,6 +8,7 @@
   <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
   <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="Arch Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash"/>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="Tensorflow"/>
   <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular"/>
@@ -16,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=neovim" width="65" height="65" alt="Neovim"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase"/>
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Pytorch"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB"/>
